@@ -21,6 +21,8 @@ func myGreeting(during execution: Execution) {
 }
 ```
 
+The function must have the argument with inner-function name `execution` of type `Execution`.
+
 See the included test for a complete example.
 
 **BUT:** The repositioning of errors is not perfect.
