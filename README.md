@@ -5,10 +5,10 @@
 
 **This package is deprecated** because:
 
-- This macro has issued with the relocation of compilation errors.
+- This macro has an issue with the relocation of compilation errors.
 - Instead of the [Workflow](https://github.com/stefanspringer1/SwiftWorkflow) package used here, the new [Pipeline](https://github.com/stefanspringer1/Pipeline) should be used.
 - For the [Pipeline](https://github.com/stefanspringer1/Pipeline) package, the [PipelineStepMacro](https://github.com/stefanspringer1/PipelineStepMacro) was created.
-- The [PipelineStepMacro](https://github.com/stefanspringer1/PipelineStepMacro) is now integrated in the [Pipeline](https://github.com/stefanspringer1/Pipeline) package.
+- The [PipelineStepMacro](https://github.com/stefanspringer1/PipelineStepMacro) is now integrated into the [Pipeline](https://github.com/stefanspringer1/Pipeline) package.
 
 ---
 
