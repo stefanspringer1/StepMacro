@@ -1,5 +1,7 @@
 # StepMacro
 
+This package implements the macro `@Step` for functions that should act as steps according to the [SwiftWorkflow](https://github.com/stefanspringer1/SwiftWorkflow) package.
+
 ---
 **NOTE**
 
@@ -11,8 +13,6 @@
 - The [PipelineStepMacro](https://github.com/stefanspringer1/PipelineStepMacro) is now integrated into the [Pipeline](https://github.com/stefanspringer1/Pipeline) package.
 
 ---
-
-This package implements the macro `@Step` for functions that should act as steps according to the [SwiftWorkflow](https://github.com/stefanspringer1/SwiftWorkflow) package.
 
 Instead of writing:
 
